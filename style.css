@@ -331,6 +331,9 @@ header .icons i:hover{
     background: white;
 }
 
+.offer .inner .box:first-child .content .btn:hover{
+    background: var(gray);
+
 
 /* ===============conatct================ */
 .contact {
